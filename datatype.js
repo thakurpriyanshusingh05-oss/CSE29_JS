@@ -3,7 +3,7 @@ console.log("PRIYANSHU SINGH");
 console.log(" Resisdent of BALLIA (UTTARPRADESH)");
 console.log("student at ABESEC");
 
-fullname="TONY STARK"
+fullname="MITCHELL STARK"
 console.log(fullname);
 
 // to show that small and capitals letters are different;
