@@ -7,13 +7,13 @@ for(let count=1;count<=5;count++){
 // calculate the sum of 1 to 5;
 
 let sum=0;
-for(let i=0;i<=5;i++){
+for(let i=0;i<=6;i++){
     sum=sum+i
 }
 console.log("sum is :",sum);
 
 // while loop;
-while(i<=5){
+while(i<=6){
     console.log("hello");
     i++
  }
@@ -55,7 +55,7 @@ for(let num=0;num<=100;num++){
     }
 }
 
-(Q1) print all odd number from 1 to 100;
+// (Q1) print all odd number from 1 to 100;
 
 for(let num=0;num<=100;num++){
     if(num%2!==0){
@@ -63,7 +63,7 @@ for(let num=0;num<=100;num++){
     }
 }
 
-(Q2) create a game where you start with any random guess number...ask the user to keep guessing the number until the users enters correct number;
+// (Q2) create a game where you start with any random guess number...ask the user to keep guessing the number until the users enters correct number;
 
 let gameNum=25;
 let userNum=prompt("guess the game number:");
