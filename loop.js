@@ -14,7 +14,7 @@ console.log("sum is :",sum);
 
 // while loop;
 while(i<=6){
-    console.log("hello");
+    console.log("hello Duniya");
     i++
  }
 
@@ -37,7 +37,7 @@ let size = 0;
 for-in loop;
 
 let student={
-    name:"priyanshu singh",
+    name:"Priyanshu singh",
     age:18,
     cgpa:9.5,
     ispass:true

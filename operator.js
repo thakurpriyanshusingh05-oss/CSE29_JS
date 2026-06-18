@@ -1,6 +1,6 @@
 // arthematic operators
-let a=4;
-let b=2;
+let a=8;
+let b=4;
 
 console.log("a =",a, " & b =",b);
 console.log("a+b=",a+b);
