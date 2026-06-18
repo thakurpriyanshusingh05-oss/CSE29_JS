@@ -3,7 +3,7 @@ let paragraph = document.getElementById("paragraph");
 let input = document.getElementById("userinput");
 
 
-let fontSize = 16;
+let fontSize = 20;
 
 
 
