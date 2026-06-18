@@ -11,9 +11,9 @@ function calculateResult(){
     let grade;
     if(average>90)
         grade='A+';
-    elseif(average<90 && average>80)
+    elseif(average<95 && average>85)
         grade='B';
-    elseif(average<80 && average>70)
+    elseif(average<85 && average>75)
         grade='C';
 
 }
